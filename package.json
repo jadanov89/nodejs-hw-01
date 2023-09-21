@@ -5,8 +5,10 @@
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "commander": "^11.0.0",
+    "nanoid": "^5.0.1",
+    "uuid": "^9.0.1"
   }
 }
-
-
-
